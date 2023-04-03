@@ -10,6 +10,6 @@ This workshop focuses on learning how to download and navigate the dplyr cheatsh
 
 | Abbreviation | Description |
 | :----- |:------|
-**Name** & Name of player
-**Season** & Season
+**Name** | Name of player
+**Season** | Season
 
